@@ -27,3 +27,6 @@
 
 ### Seminar :
 - Compute FLOPS and analyze memory-bound by plooting FLOPs vs Latenncey plots with different configurations
+
+### HW1
+Link to HW https://github.com/ZhMax/basic_sparse_quant/tree/main/notebooks
