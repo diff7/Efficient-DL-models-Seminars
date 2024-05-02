@@ -28,11 +28,11 @@
 ### Seminar :
 - Compute FLOPS and analyze memory-bound by plooting FLOPs vs Latenncey plots with different configurations
 
-### HW1
+## HW1
 Link to HW https://github.com/ZhMax/basic_sparse_quant/tree/main/notebooks
 
-### Projects
-**Using deep learning representations during hyperparameters optimization.**
+## Projects
+### 1. Using deep learning representations during hyperparameters optimization.
 
 Existing methods of hyperopt typically are a "block-box" optimization.
 However, for neural networks, one can study internal representations. 
@@ -44,7 +44,7 @@ Your goal is to improve some of existing hyperopt methods with this idea.
 3. Use this pipeline with some existing hyperopt method.
 4. Invent a way how to incorporate similarity of neural representations and make hyperopt faster.
 
-Project evaluation:
+**Project evaluation:**
 60%: 1,2,3
 100%: 1,2,3,4
 
@@ -53,7 +53,7 @@ A good grade will be provided for interesting experiments and a good report.
 [1] Kornblith, S., Norouzi, M., Lee, H., & Hinton, G. (2019, May). Similarity of neural network representations revisited. In International conference on machine learning (pp. 3519-3529). PMLR.
 [2] Barannikov, S., Trofimov, I., Balabin, N., & Burnaev, E. (2021). Representation topology divergence: A method for comparing neural network representations. arXiv preprint arXiv:2201.00058.
 
-**Neural architecture search for tabular DNN**
+### ** 2. Neural architecture search for tabular DNN**
 
 Recently, deep learning methods outperformed traditional boosting-based methods on tabular data.
 However, the improvement over boosting-based methods is small and not stable.
@@ -65,7 +65,7 @@ The idea of this project is to make the gap wider by using techniques of neural 
 4. Pick one or several tabular datasets and carry out experiments. 
 5. One should see improvement in metrics over a default DNN model.
 
-Project evaluation:
+**Project evaluation:**
 60%: 1,2,3
 100%: 1,2,3,4
 
@@ -75,9 +75,30 @@ A good grade will be provided for interesting experiments and a good report.
 [1] Gorishniy, Y., Rubachev, I., Khrulkov, V., & Babenko, A. (2021). Revisiting deep learning models for tabular data. Advances in Neural Information Processing Systems, 34, 18932-18943.
 [2] Somepalli, G., Goldblum, M., Schwarzschild, A., Bruss, C. B., & Goldstein, T. (2021). Saint: Improved neural networks for tabular data via row attention and contrastive pre-training. arXiv preprint arXiv:2106.01342.
 
-
-**Neural architecture search for tabular DNN via train-free NAS**
+### ** 3. Neural architecture search for tabular DNN via train-free NAS**
 
 The same as a previous project, but train-free NAS like [1] must be used.
 
 [1] Chen, W., Gong, X., & Wang, Z. (2021). Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective. arXiv preprint arXiv:2102.11535.
+
+### **Project deliverables and grading: ** <br>
+
+**Concise report with 4-6 pages (excl. appendices)**
+
+■ Introduction, motivation and problem statement
+■ Related work and brief literature overview
+■ ML Methods and algorithms, proposed algorithm modifications, etc.
+■ Experiments / Discussion: details about (hyper) parameters, metrics and details, discussion of failures and successes, equations, results, visualizations, tables, etc.
+■ Conclusion and directions for further research
+■ References, acknowledgements and contributions of each team member.
+
+
+**GitHub repo with project code and provided documentation - README.md**
+
+■ Experiments should be reproducible 
+■ Clear README to run the experiments should be provided, specify what outcome one should expect after running the code
+■ Code should follow common guidelines and be readable
+■ If you used other libraries or repositories please describe them and explicitly mention which modifications you made or where your code starts
+
+
+
