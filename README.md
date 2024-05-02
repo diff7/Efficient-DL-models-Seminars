@@ -53,7 +53,7 @@ A good grade will be provided for interesting experiments and a good report.
 [1] Kornblith, S., Norouzi, M., Lee, H., & Hinton, G. (2019, May). Similarity of neural network representations revisited. In International conference on machine learning (pp. 3519-3529). PMLR.
 [2] Barannikov, S., Trofimov, I., Balabin, N., & Burnaev, E. (2021). Representation topology divergence: A method for comparing neural network representations. arXiv preprint arXiv:2201.00058.
 
-### ** 2. Neural architecture search for tabular DNN**
+### 2. Neural architecture search for tabular DNN
 
 Recently, deep learning methods outperformed traditional boosting-based methods on tabular data.
 However, the improvement over boosting-based methods is small and not stable.
@@ -85,20 +85,20 @@ The same as a previous project, but train-free NAS like [1] must be used.
 
 **Concise report with 4-6 pages (excl. appendices)**
 
-■ Introduction, motivation and problem statement
-■ Related work and brief literature overview
-■ ML Methods and algorithms, proposed algorithm modifications, etc.
-■ Experiments / Discussion: details about (hyper) parameters, metrics and details, discussion of failures and successes, equations, results, visualizations, tables, etc.
-■ Conclusion and directions for further research
-■ References, acknowledgements and contributions of each team member.
+■ Introduction, motivation and problem statement <br>
+■ Related work and brief literature overview <br>
+■ ML Methods and algorithms, proposed algorithm modifications, etc. <br>
+■ Experiments / Discussion: details about (hyper) parameters, metrics and details, discussion of failures and successes, equations, results,  visualizations, tables, etc. <br>
+■ Conclusion and directions for further research <br>
+■ References, acknowledgements and contributions of each team member. <br>
 
 
 **GitHub repo with project code and provided documentation - README.md**
 
-■ Experiments should be reproducible 
-■ Clear README to run the experiments should be provided, specify what outcome one should expect after running the code
-■ Code should follow common guidelines and be readable
-■ If you used other libraries or repositories please describe them and explicitly mention which modifications you made or where your code starts
+■ Experiments should be reproducible <br>
+■ Clear README to run the experiments should be provided, specify what outcome one should expect after running the code <br>
+■ Code should follow common guidelines and be readable <br>
+■ If you used other libraries or repositories please describe them and explicitly mention which modifications you made or where your code starts <br>
 
 
 
