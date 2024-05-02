@@ -75,13 +75,13 @@ A good grade will be provided for interesting experiments and a good report.
 [1] Gorishniy, Y., Rubachev, I., Khrulkov, V., & Babenko, A. (2021). Revisiting deep learning models for tabular data. Advances in Neural Information Processing Systems, 34, 18932-18943.
 [2] Somepalli, G., Goldblum, M., Schwarzschild, A., Bruss, C. B., & Goldstein, T. (2021). Saint: Improved neural networks for tabular data via row attention and contrastive pre-training. arXiv preprint arXiv:2106.01342.
 
-### ** 3. Neural architecture search for tabular DNN via train-free NAS**
+### 3. Neural architecture search for tabular DNN via train-free NAS
 
 The same as a previous project, but train-free NAS like [1] must be used.
 
 [1] Chen, W., Gong, X., & Wang, Z. (2021). Neural architecture search on imagenet in four gpu hours: A theoretically inspired perspective. arXiv preprint arXiv:2102.11535.
 
-### **Project deliverables and grading: ** <br>
+### Project deliverables and grading: <br>
 
 **Concise report with 4-6 pages (excl. appendices)**
 
